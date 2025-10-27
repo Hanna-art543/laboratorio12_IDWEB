@@ -17,3 +17,4 @@ if(esPar(numero)) {
 else {
     alert("El número es impar.")
 }
+
