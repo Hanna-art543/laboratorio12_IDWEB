@@ -10,3 +10,4 @@ let precio = parseFloat(prompt("Ingrese el precio:"));
 let porcentaje = parseFloat(prompt("Ingrese el descuento (solo el número):"));
 
 alert(calcularDescuento(precio, porcentaje));
+
