@@ -7,3 +7,4 @@ function convertirAMayusculas (texto) {
 //Ingresar y mostrar
 let texto = prompt("Ingresar un texto:");
 alert(convertirAMayusculas(texto));
+
