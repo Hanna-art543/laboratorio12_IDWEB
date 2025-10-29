@@ -11,3 +11,4 @@ const esPositivo = (num) => {
 //Ingresar numero y mostrar
 let numero = prompt("Ingrese número:");
 alert(esPositivo(numero));
+
