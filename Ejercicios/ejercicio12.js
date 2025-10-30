@@ -5,7 +5,7 @@ function operacionesMatematicas(a, b) {
     const sumar = () => a + b;
     const restar = () => a - b;
     const multiplicar = () => a * b;
-    const dividir = () => b!==0 ? a / b : "Error: división por cero";
+    const dividir = () => a / b ;
 
     return {
         sumar,
